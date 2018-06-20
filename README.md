@@ -1,3 +1,3 @@
-Project for site panych.name.
+Personal site.
 
 Design assets hosted on Google Drive (Google Drive/projects).
